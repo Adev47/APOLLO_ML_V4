@@ -1,0 +1,12 @@
+[design]
+highlight_color = #d24fff
+loader_box_color = #070707
+main_text_color = #ededed
+main_widgets_color = #050505
+
+[links]
+discord_link = https://discord.gg/apollochairs
+guide_link = https://whar.gitbook.io/mw3-support-guide/complete-guide
+
+[rounded_corners]
+main_widgets = 12
